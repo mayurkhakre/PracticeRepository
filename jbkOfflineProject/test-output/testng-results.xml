@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36110" started-at="2020-11-02T10:22:40Z" finished-at="2020-11-02T10:23:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36110" started-at="2020-11-02T10:22:40Z" finished-at="2020-11-02T10:23:16Z">
+      <class name="testcases.Loginpagetest">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:testcases.Loginpagetest@73d4cc9e]" name="initialise" is-config="true" duration-ms="13963" started-at="2020-11-02T10:22:40Z" finished-at="2020-11-02T10:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="initialise()[pri:0, instance:testcases.UsefulLinksPageTest@80169cf]" name="initialise" is-config="true" duration-ms="12625" started-at="2020-11-02T10:22:54Z" finished-at="2020-11-02T10:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="createnode()[pri:0, instance:testcases.Loginpagetest@73d4cc9e]" name="createnode" is-config="true" duration-ms="57" started-at="2020-11-02T10:23:07Z" finished-at="2020-11-02T10:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnode -->
+        <test-method status="PASS" signature="pageTitle()[pri:0, instance:testcases.Loginpagetest@73d4cc9e]" name="pageTitle" duration-ms="5503" started-at="2020-11-02T10:23:07Z" finished-at="2020-11-02T10:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method status="PASS" signature="terardown()[pri:0, instance:testcases.Loginpagetest@73d4cc9e]" name="terardown" is-config="true" duration-ms="2956" started-at="2020-11-02T10:23:13Z" finished-at="2020-11-02T10:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terardown -->
+        <test-method status="PASS" signature="terardown()[pri:0, instance:testcases.UsefulLinksPageTest@80169cf]" name="terardown" is-config="true" duration-ms="568" started-at="2020-11-02T10:23:16Z" finished-at="2020-11-02T10:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terardown -->
+      </class> <!-- testcases.Loginpagetest -->
+      <class name="testcases.UsefulLinksPageTest">
+        <test-method status="PASS" signature="createnode()[pri:0, instance:testcases.UsefulLinksPageTest@80169cf]" name="createnode" is-config="true" duration-ms="0" started-at="2020-11-02T10:23:13Z" finished-at="2020-11-02T10:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnode -->
+        <test-method status="PASS" signature="pageTitle()[pri:0, instance:testcases.UsefulLinksPageTest@80169cf]" name="pageTitle" duration-ms="204" started-at="2020-11-02T10:23:13Z" finished-at="2020-11-02T10:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+      </class> <!-- testcases.UsefulLinksPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

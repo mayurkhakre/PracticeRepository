@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testcases.UsefulLinksPageTest">
+        <methods>
+          <include name="terardown"/>
+          <include name="rowsData"/>
+          <include name="initialise"/>
+          <include name="headers"/>
+          <include name="totalLinks"/>
+          <include name="brokenLinks"/>
+          <include name="createnode"/>
+        </methods>
+      </class> <!-- testcases.UsefulLinksPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
